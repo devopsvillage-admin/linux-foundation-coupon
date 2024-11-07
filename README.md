@@ -66,9 +66,9 @@ If you’re planning to take the CKA or CKS certification and are looking for a 
 
 ## Kubernetes Certification CKAD CKA CKS 
 
-- [CKAD Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
-- [CKA Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
-- [CKS Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+- [CKAD Study Guide 2024 ](https://devopsvillage.com/ckad-exam-study-guide/)<sup>Blog</sup>
+- [CKA Study Guide 2024 ](https://devopsvillage.com/ckad-exam-study-guide/)<sup>Blog</sup>
+- [CKS Study Guide 2024 ](https://devopsvillage.com/ckad-exam-study-guide/)<sup>Blog</sup>
 
 
 ## Recomended Linux Foundation Cerifications
